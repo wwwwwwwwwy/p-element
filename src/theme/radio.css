@@ -361,8 +361,8 @@
   -ms-user-select: none; }
   .el-radio.is-bordered {
     padding: 12px 20px 0 10px;
-    border-radius: 4px;
-    border: 1px solid #DCDFE6;
+    border-radius: 2px;
+    border: 1px solid #cecece;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     height: 40px; }
@@ -375,7 +375,7 @@
       margin-left: 10px; }
   .el-radio--medium.is-bordered {
     padding: 10px 20px 0 10px;
-    border-radius: 4px;
+    border-radius: 2px;
     height: 36px; }
     .el-radio--medium.is-bordered .el-radio__label {
       font-size: 14px; }
@@ -384,7 +384,7 @@
       width: 14px; }
   .el-radio--small.is-bordered {
     padding: 8px 15px 0 10px;
-    border-radius: 3px;
+    border-radius: 2px;
     height: 32px; }
     .el-radio--small.is-bordered .el-radio__label {
       font-size: 12px; }
@@ -393,7 +393,7 @@
       width: 12px; }
   .el-radio--mini.is-bordered {
     padding: 6px 15px 0 10px;
-    border-radius: 3px;
+    border-radius: 2px;
     height: 28px; }
     .el-radio--mini.is-bordered .el-radio__label {
       font-size: 12px; }
@@ -438,11 +438,11 @@
     .el-radio__input.is-focus .el-radio__inner {
       border-color: #6f8fb5; }
   .el-radio__inner {
-    border: 1px solid #DCDFE6;
+    border: 1px solid #cecece;
     border-radius: 100%;
     width: 14px;
     height: 14px;
-    background-color: #FFFFFF;
+    background-color: #fcfcfc;
     position: relative;
     cursor: pointer;
     display: inline-block;
@@ -454,7 +454,7 @@
       width: 4px;
       height: 4px;
       border-radius: 100%;
-      background-color: #FFFFFF;
+      background-color: #fcfcfc;
       content: "";
       position: absolute;
       left: 50%;

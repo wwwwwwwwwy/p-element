@@ -496,7 +496,7 @@
   .el-popper[x-placement^="top"] .popper__arrow::after {
     bottom: 1px;
     margin-left: -6px;
-    border-top-color: #FFFFFF;
+    border-top-color: #fcfcfc;
     border-bottom-width: 0; }
 
 .el-popper[x-placement^="bottom"] {
@@ -512,7 +512,7 @@
     top: 1px;
     margin-left: -6px;
     border-top-width: 0;
-    border-bottom-color: #FFFFFF; }
+    border-bottom-color: #fcfcfc; }
 
 .el-popper[x-placement^="right"] {
   margin-left: 12px; }
@@ -526,7 +526,7 @@
   .el-popper[x-placement^="right"] .popper__arrow::after {
     bottom: -6px;
     left: 1px;
-    border-right-color: #FFFFFF;
+    border-right-color: #fcfcfc;
     border-left-width: 0; }
 
 .el-popper[x-placement^="left"] {
@@ -543,11 +543,11 @@
     bottom: -6px;
     margin-left: -6px;
     border-right-width: 0;
-    border-left-color: #FFFFFF; }
+    border-left-color: #fcfcfc; }
 
 .el-popover {
   position: absolute;
-  background: #FFFFFF;
+  background: #fcfcfc;
   min-width: 150px;
   border-radius: 4px;
   border: 1px solid #EBEEF5;

@@ -262,7 +262,7 @@
       display: block; }
     .el-tag .el-icon-close:hover {
       background-color: #6f8fb5;
-      color: #FFFFFF; }
+      color: #fcfcfc; }
   .el-tag--info {
     background-color: rgba(144, 147, 153, 0.1);
     border-color: rgba(144, 147, 153, 0.2);
@@ -273,40 +273,40 @@
       color: #909399; }
     .el-tag--info .el-tag__close:hover {
       background-color: #909399;
-      color: #FFFFFF; }
+      color: #fcfcfc; }
   .el-tag--success {
-    background-color: rgba(103, 194, 58, 0.1);
-    border-color: rgba(103, 194, 58, 0.2);
-    color: #67C23A; }
+    background-color: rgba(111, 143, 181, 0.1);
+    border-color: rgba(111, 143, 181, 0.2);
+    color: #6f8fb5; }
     .el-tag--success.is-hit {
-      border-color: #67C23A; }
+      border-color: #6f8fb5; }
     .el-tag--success .el-tag__close {
-      color: #67C23A; }
+      color: #6f8fb5; }
     .el-tag--success .el-tag__close:hover {
-      background-color: #67C23A;
-      color: #FFFFFF; }
+      background-color: #6f8fb5;
+      color: #fcfcfc; }
   .el-tag--warning {
-    background-color: rgba(230, 162, 60, 0.1);
-    border-color: rgba(230, 162, 60, 0.2);
-    color: #E6A23C; }
+    background-color: rgba(248, 124, 124, 0.1);
+    border-color: rgba(248, 124, 124, 0.2);
+    color: #f87c7c; }
     .el-tag--warning.is-hit {
-      border-color: #E6A23C; }
+      border-color: #f87c7c; }
     .el-tag--warning .el-tag__close {
-      color: #E6A23C; }
+      color: #f87c7c; }
     .el-tag--warning .el-tag__close:hover {
-      background-color: #E6A23C;
-      color: #FFFFFF; }
+      background-color: #f87c7c;
+      color: #fcfcfc; }
   .el-tag--danger {
-    background-color: rgba(245, 108, 108, 0.1);
-    border-color: rgba(245, 108, 108, 0.2);
-    color: #F56C6C; }
+    background-color: rgba(248, 124, 124, 0.1);
+    border-color: rgba(248, 124, 124, 0.2);
+    color: #f87c7c; }
     .el-tag--danger.is-hit {
-      border-color: #F56C6C; }
+      border-color: #f87c7c; }
     .el-tag--danger .el-tag__close {
-      color: #F56C6C; }
+      color: #f87c7c; }
     .el-tag--danger .el-tag__close:hover {
-      background-color: #F56C6C;
-      color: #FFFFFF; }
+      background-color: #f87c7c;
+      color: #fcfcfc; }
   .el-tag--medium {
     height: 28px;
     line-height: 26px; }

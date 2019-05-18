@@ -1,0 +1,43 @@
+
+/* 表单的验证验证通过Border 保持蓝色 */
+.el-form-item.is-success .el-input__inner, 
+.el-form-item.is-success .el-textarea__inner{
+    border-color: rgb(206, 206, 206);
+}
+
+
+/* Message 弹窗大小颜色 */
+.el-message{
+    top:0 !important;
+}
+
+.el-message--success{
+    background: #68c5b3;
+    text-align: center;
+}
+
+.el-message--error{
+    background: #f87c7c;
+    text-align: center;
+}
+
+.el-message--error,
+.el-message--success{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.el-message .el-icon-success,
+.el-message .el-icon-error{
+    color: #fff ;
+}
+
+.el-message--success i,
+.el-message--error i,
+.el-message--success .el-message__content,
+.el-message--error .el-message__content{
+    display: inline;
+    color: #fff ;
+}

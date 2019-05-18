@@ -245,7 +245,7 @@
     height: 100%;
     border-left: 2px solid #E4E7ED; }
   .el-timeline-item__icon {
-    color: #FFFFFF;
+    color: #fcfcfc;
     font-size: 13px; }
   .el-timeline-item__node {
     position: absolute;
@@ -271,11 +271,11 @@
     .el-timeline-item__node--primary {
       background-color: #6f8fb5; }
     .el-timeline-item__node--success {
-      background-color: #67C23A; }
+      background-color: #6f8fb5; }
     .el-timeline-item__node--warning {
-      background-color: #E6A23C; }
+      background-color: #f87c7c; }
     .el-timeline-item__node--danger {
-      background-color: #F56C6C; }
+      background-color: #f87c7c; }
     .el-timeline-item__node--info {
       background-color: #909399; }
   .el-timeline-item__dot {
